@@ -2,6 +2,13 @@
 
 A simple and beginner-friendly Todo application built with React, using Context API for global state management and Local Storage to persist todos across page reloads.
 
+____
+
+🔗 Live Demo
+
+Try the live version here:
+👉 https://nirmalkumar-1.github.io/Todo-ContextLocal/
+
 ⸻
 
 🚀 Features
@@ -32,7 +39,7 @@ _____
 
 📸 Preview
 
-screencapture-nirmalkumar-1-github-io-Todo-ContextLocal-2026-01-22-23_52_48
+<img width="2880" height="1752" alt="screencapture-nirmalkumar-1-github-io-Todo-ContextLocal-2026-01-22-23_52_48" src="https://github.com/user-attachments/assets/b7a6c5c9-2b67-43d3-8438-afff31b4723b" />
 
 
 
